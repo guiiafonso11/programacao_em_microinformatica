@@ -1,0 +1,139 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:white;
+}
+a{
+    font-size: large;
+}
+span{
+    padding: 5px;
+}
+body{
+    background-color: black;
+}
+.icon-logo{
+	width: 55px;
+	border-color: black;
+    border-style:double;
+}
+nav{
+	margin: 0 auto;
+	padding: 10px ;
+	display: flex;
+	justify-content: space-between;
+    background-color: rgba(39, 23, 184, 0.904);
+}
+.nav-left{
+	display:inline;
+}
+.nav-right{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+main{
+    margin: 0 auto;
+}
+.flyer{
+	min-height: 60vh;
+	background-image: url("../img/fundo1.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position:center;
+
+	display:flex;
+	justify-content: center;
+	align-items: center;
+}
+.flyer-div{
+    margin: 50px;
+	padding: 50px;
+	font-size: xx-large;
+    text-align: center;
+    background-color: rgba(68, 66, 212, 0.87);
+    box-shadow: 3px 3px 15px;
+    color:rgb(0, 26, 255);
+	text-shadow:0px 2px 5px rgb(11, 0, 53);
+}
+h1{
+    font-size:xx-large;
+}
+hr{
+    color:white;
+}
+p{
+    font-size: large;
+    text-align: justify;
+}
+.flyer2{
+	min-height: 60vh;
+	background-image: url("../img/css.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position:center;
+
+	display:flex;
+	justify-content: center;
+	align-items: center;
+}
+.flyer-div2{
+    margin: 70px;
+	padding: 70px;
+	font-size: xx-large;
+    text-align: center;
+    background-color: rgba(224, 199, 84, 0.89);
+	border-radius: 50%;
+    box-shadow: 3px 3px 15px;
+    color:rgb(255, 136, 0);
+	text-shadow:0px 2px 5px rgb(255, 136, 0);
+}
+.javascript{
+    text-align: justify;
+    justify-content: left;
+}
+.center{
+    text-align: center;
+}
+.right{
+    text-align: right;
+}
+.flyer3{
+	min-height: 60vh;
+	background-image: url("../img/html.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position:center;
+
+	display:flex;
+	justify-content: center;
+	align-items: center;
+}
+.flyer-div3{
+    margin: 50px;
+	padding: 50px;
+	font-size: xx-large;
+    text-align: center;
+    background-color: rgba(80, 255, 74, 0.726);
+    box-shadow: 3px 3px 15px;
+    color:rgb(94, 255, 0);
+	text-shadow:0px 2px 5px rgb(0, 53, 9);
+}
+.fundobr{
+    background-color: white;
+    padding: 50px;
+    color:black;
+}
+.fundobr-texto{
+    color:black;
+    text-align:center;
+}
+.fundopr{
+    padding: 50px;
+    color:black;
+}
+.fundopr-texto{
+    color:black;
+    text-align:center;
+}

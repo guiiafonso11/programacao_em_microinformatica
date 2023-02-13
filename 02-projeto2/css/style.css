@@ -1,0 +1,20 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+
+div{
+    width: 80%;
+    margin: 0 auto;
+    height: 50vh;
+    border:3px solid red;
+    /* background-image: url("../../img/paintzin.png"); */
+    /* background-repeat: no-repeat; */
+    /* background-repeat: repeat; */
+    background-image: url("../../img/paint.png");
+    background-repeat: no-repeat;
+    /* background-size: 100% 100%; */
+    /* background-size:contain; */
+    background-size:cover;
+    background-position: center;
+}

@@ -1,0 +1,76 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	font-family:Georgia;
+}
+.icon-logo{
+	width: 55px;
+	border-color: black;
+    border-style:double;
+}
+nav{
+	width: 80%;
+	margin: 0 auto;
+	padding: 5px 0;
+	display: flex;
+	justify-content: space-between;
+}
+.nav-left{
+	display:inline;
+}
+.nav-right{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+span{
+	padding: 0 15px;
+}
+
+main{
+	width: 80%;
+	margin:0 auto;
+}
+.flyer{
+	min-height: 70vh;
+	background-image: url("../../Projeto170922/img/fundo1.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position:center;
+
+	display:flex;
+	justify-content: end;
+	align-items: center;
+}
+.flyer-div{
+	margin: 50px;
+	padding: 50px;
+	background-color: rgba(240, 248, 255, 0.609);
+	border-radius: 50%;
+    box-shadow: 3px 3px 15px;
+	font-size: xx-large;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.fim{
+	text-align: center;
+	padding: 5px
+}
+hr{
+	color:grey
+}

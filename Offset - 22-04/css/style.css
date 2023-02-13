@@ -1,0 +1,20 @@
+.red{
+    min-height: 150px;
+    background-color: red;
+}
+.yellow{
+    min-height: 150px;
+    background-color: rgb(251, 255, 0);
+}
+.green{
+    min-height: 150px;
+    background-color: rgb(0, 212, 11);
+}
+.blue{
+    min-height: 150px;
+    background-color: rgb(89, 0, 255);
+}
+.pink{
+    min-height: 150px;
+    background-color: rgb(255, 0, 221);
+}

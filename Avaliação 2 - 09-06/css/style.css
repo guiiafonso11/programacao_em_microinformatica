@@ -1,0 +1,35 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.fundo{
+    background-image: url("https://picsum.photos/id/861/350/300");
+    background-repeat: no-repeat;
+	background-size: cover;
+	display:flex;
+	justify-content: center;
+	align-items: center;    
+    border-style:double;
+    border-color: rgb(231, 231, 231);
+    width: 350px;
+    height: 300px;
+    border-radius: 1%;
+}
+.img-background{
+    background-image: url("https://picsum.photos/id/339/1500/700");
+    background-repeat: no-repeat;
+	background-size: cover;
+	background-position:center;
+	display:flex;
+	justify-content: center;
+	align-items: center;
+    min-height: 75vh;
+
+}
+.borda{
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: rgb(255, 255, 255);
+}
+.aviao{
+    border-radius: 100%;
+}

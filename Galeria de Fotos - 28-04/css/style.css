@@ -1,0 +1,13 @@
+p {
+    text-align: justify;
+}
+
+.bg-gray {
+    background-color: rgb(92, 92, 92) !important;
+}
+.carousel-item{
+    width: 1600px;
+}
+.carrossel{
+    height: 400px;
+}

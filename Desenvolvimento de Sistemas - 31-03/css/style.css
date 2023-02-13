@@ -1,0 +1,9 @@
+.text-justify{
+    text-align: justify;
+}
+.img{
+        font-size: xx-large;
+        text-align: center;
+        box-shadow: 10px 20px 15px;
+        border-radius: 15%;  
+}

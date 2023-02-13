@@ -1,0 +1,22 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.img-background{
+    background-image: url("https://picsum.photos/id/861/1500/700");
+    background-repeat: no-repeat;
+	background-size: cover;
+	background-position:center;
+	display:flex;
+	justify-content: center;
+	align-items: center;
+    min-height: 75vh;
+}
+.botao{ 
+    margin: 0 auto;
+}
+.border-bottom{
+    color:rgb(121, 121, 121);
+    width: 50%;
+    margin:0 auto;  
+}
